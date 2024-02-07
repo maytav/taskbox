@@ -22,12 +22,3 @@ jobs:
           #👇 Chromatic projectToken, see https://storybook.js.org/tutorials/intro-to-storybook/angular/en/deploy/ to obtain it
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
           token: ${{ secrets.GITHUB_TOKEN }}
-  chromatic:
-    runs-on: ubuntu-latest
-    steps:
-      # ... other steps
-      - uses: chromaui/action@latest
-        with:
-          projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
-          # 👇 Runs Chromatic with the option to compress the build output.
-          zip: true
