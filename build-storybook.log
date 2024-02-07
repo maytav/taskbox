@@ -1,6 +1,6 @@
 
 > taskbox@0.2.0 build-storybook
-> ng run taskbox:build-storybook --output-dir C:\Users\MaytavB\AppData\Local\Temp\chromatic--7060-ucWXn5EMjvpP
+> ng run taskbox:build-storybook --output-dir C:\Users\MaytavB\AppData\Local\Temp\chromatic--18448-VbGNvzxfZthu
 
 [0m
 [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
@@ -25,232 +25,232 @@ Node.js version : v18.13.0
 
 Operating system : Windows 10
 
-[09:30:41] No configuration file found, switching to CLI flags.
-[09:30:41] Using tsconfig file : C:\Users\MaytavB\WebstormProjects\intro-storybook-angular-template-master\.storybook\tsconfig.json
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/.storybook/preview.ts
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/favicon.ico
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/index.html
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/main.ts
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/polyfills.ts
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/styles.css
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/environments/environment.prod.ts
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/environments/environment.ts
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/app.component.css
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/app.component.html
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/app.component.ts
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/app.module.ts
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/button.component.ts
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/button.css
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/Button.stories.ts
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/header.component.ts
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/header.css
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/Header.stories.ts
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/Introduction.mdx
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/page.component.ts
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/page.css
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/Page.stories.ts
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/User.ts
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Light-webfont.eot
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Light-webfont.svg
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Light-webfont.ttf
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Light-webfont.woff
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Regular-webfont.eot
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Regular-webfont.svg
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Regular-webfont.ttf
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Regular-webfont.woff
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/icon/percolate.eot
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/icon/percolate.svg
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/icon/percolate.ttf
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/icon/percolate.woff
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task.module.ts
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/models/task.model.ts
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/code-brackets.svg
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/colors.svg
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/comments.svg
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/direction.svg
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/flow.svg
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/plugin.svg
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/repo.svg
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/stackalt.svg
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-task-list/pure-task-list.component.html
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-task-list/pure-task-list.component.scss
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-task-list/pure-task-list.component.ts
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-task-list/pure-task-list.stories.ts
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/task.component.css
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/task.component.html
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/task.component.ts
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/task.stories.ts
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-inbox-screen/pure-inbox-screen.component.html
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-inbox-screen/pure-inbox-screen.component.scss
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-inbox-screen/pure-inbox-screen.component.ts
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-inbox-screen/pure-inbox-screen.stories.ts
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task-list/task-list.component.html
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task-list/task-list.component.scss
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task-list/task-list.component.ts
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/inbox-screen/inbox-screen.component.html
-[09:30:41] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/inbox-screen/inbox-screen.component.scss
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/inbox-screen/inbox-screen.component.ts
-[09:30:41] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/states/task.stat.ts
-[09:30:41] Searching package.json file
-[09:30:41] package.json file found
-[09:30:41] Processing package.json dependencies
-[09:30:41] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
-[09:30:41] README.md file found
-[09:30:41] Error during C:\Users\MaytavB\WebstormProjects\intro-storybook-angular-template-master\CHANGELOG read
-[09:30:41] Continuing without CHANGELOG.md file
-[09:30:41] Error during C:\Users\MaytavB\WebstormProjects\intro-storybook-angular-template-master\CONTRIBUTING read
-[09:30:41] Continuing without CONTRIBUTING.md file
-[09:30:41] LICENSE.md file found
-[09:30:41] Error during C:\Users\MaytavB\WebstormProjects\intro-storybook-angular-template-master\TODO read
-[09:30:41] Continuing without TODO.md file
-[09:30:41] Get dependencies data
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/.storybook/preview.ts
-[09:30:41] found          : preview
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/main.ts
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/polyfills.ts
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/environments/environment.prod.ts
-[09:30:41] found          : environment
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/environments/environment.ts
-[09:30:41] found          : environment
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/app.component.ts
-[09:30:41] found          : AppComponent
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/app.module.ts
-[09:30:41] found          : AppModule
-[09:30:41]                : - imports:
-[09:30:41]                : 	- BrowserModule
-[09:30:41]                : 	- TaskModule
-[09:30:41]                : 	- NgxsModule
-[09:30:41]                : 	- NgxsReduxDevtoolsPluginModule
-[09:30:41]                : 	- NgxsLoggerPluginModule
-[09:30:41]                : 	- InboxScreenComponent
-[09:30:41]                : 	- PureInboxScreenComponent
-[09:30:41]                : - declarations:
-[09:30:41]                : 	- AppComponent
-[09:30:41]                : - bootstrap:
-[09:30:41]                : 	- AppComponent
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/button.component.ts
-[09:30:41] found          : ButtonComponent
-[09:30:41]                : - imports:
-[09:30:41]                : 	- CommonModule
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/Button.stories.ts
-[09:30:41] found          : meta
-[09:30:41] found          : Story
-[09:30:41] found          : Primary
-[09:30:41] found          : Secondary
-[09:30:41] found          : Large
-[09:30:41] found          : Small
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/header.component.ts
-[09:30:41] found          : HeaderComponent
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/Header.stories.ts
-[09:30:41] found          : meta
-[09:30:41] found          : Story
-[09:30:41] found          : LoggedIn
-[09:30:41] found          : LoggedOut
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/page.component.ts
-[09:30:41] found          : PageComponent
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/Page.stories.ts
-[09:30:41] found          : meta
-[09:30:41] found          : Story
-[09:30:41] found          : LoggedOut
-[09:30:41] found          : LoggedIn
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/User.ts
-[09:30:41] found          : User
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task.module.ts
-[09:30:41] found          : TaskModule
-[09:30:41]                : - imports:
-[09:30:41]                : 	- TaskComponent
-[09:30:41]                : 	- TaskListComponent
-[09:30:41]                : 	- PureTaskListComponent
-[09:30:41]                : 	- NgxsModule
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/models/task.model.ts
-[09:30:41] found          : Task
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-task-list/pure-task-list.component.ts
-[09:30:41] found          : PureTaskListComponent
-[09:30:41]                : - imports:
-[09:30:41]                : 	- NgIf
-[09:30:41]                : 	- TaskComponent
-[09:30:41]                : 	- NgForOf
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-task-list/pure-task-list.stories.ts
-[09:30:41] found          : meta
-[09:30:41] found          : Story
-[09:30:41] found          : Default
-[09:30:41] found          : WithPinnedTasks
-[09:30:41] found          : Loading
-[09:30:41] found          : Empty
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/task.component.ts
-[09:30:41] found          : TaskComponent
-[09:30:41]                : - imports:
-[09:30:41]                : 	- NgIf
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/task.stories.ts
-[09:30:41] found          : actionsData
-[09:30:41] found          : meta
-[09:30:41] found          : Story
-[09:30:41] found          : Default
-[09:30:41] found          : Pinned
-[09:30:41] found          : Archived
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-inbox-screen/pure-inbox-screen.component.ts
-[09:30:41] found          : PureInboxScreenComponent
-[09:30:41]                : - imports:
-[09:30:41]                : 	- NgIf
-[09:30:41]                : 	- TaskListComponent
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-inbox-screen/pure-inbox-screen.stories.ts
-[09:30:41] found          : meta
-[09:30:41] found          : Story
-[09:30:41] found          : Default
-[09:30:41] found          : Error
-[09:30:41] found          : WithInteractions
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task-list/task-list.component.ts
-[09:30:41] found          : TaskListComponent
-[09:30:41]                : - imports:
-[09:30:41]                : 	- PureTaskListComponent
-[09:30:41]                : 	- AsyncPipe
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/inbox-screen/inbox-screen.component.ts
-[09:30:41] found          : InboxScreenComponent
-[09:30:41]                : - imports:
-[09:30:41]                : 	- PureInboxScreenComponent
-[09:30:41]                : 	- AsyncPipe
-[09:30:41] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/states/task.stat.ts
-[09:30:41] found          : actions
-[09:30:41] found          : ArchiveTask
-[09:30:41] found          : PinTask
-[09:30:41] found          : AppError
-[09:30:41] found          : defaultTasks
-[09:30:41] found          : TaskStateModel
-[09:30:41] found          : TasksState
-[09:30:41] -------------------
-[09:30:41] Project statistics 
-[09:30:41] - files      : 26
-[09:30:41] - module     : 2
-[09:30:41] - component  : 9
-[09:30:41] - injectable : 1
-[09:30:41] - class      : 3
-[09:30:41] - interface  : 3
-[09:30:41] -------------------
-[09:30:41] Prepare components
-[09:30:41]  AppComponent has styleUrls, include them
-[09:30:41]  ButtonComponent has styleUrls, include them
-[09:30:41]  HeaderComponent has styleUrls, include them
-[09:30:41]  InboxScreenComponent has a templateUrl, include it
-[09:30:41]  PageComponent has styleUrls, include them
-[09:30:41]  PureInboxScreenComponent has a templateUrl, include it
-[09:30:41]  PureTaskListComponent has a templateUrl, include it
-[09:30:41]  TaskComponent has a templateUrl, include it
-[09:30:41]  TaskListComponent has a templateUrl, include it
-[09:30:41] Prepare modules
-[09:30:41] Prepare injectables
-[09:30:41] Prepare classes
-[09:30:41] Prepare interfaces
-[09:30:41] Prepare miscellaneous
-[09:30:41] Process documentation coverage report
-[09:30:41] Generating documentation in export format json
-[09:30:41] Documentation generated in ./ in 0.644 seconds
-info => Cleaning outputDir: C:\Users\MaytavB\AppData\Local\Temp\chromatic--7060-ucWXn5EMjvpP
+[09:56:50] No configuration file found, switching to CLI flags.
+[09:56:50] Using tsconfig file : C:\Users\MaytavB\WebstormProjects\intro-storybook-angular-template-master\.storybook\tsconfig.json
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/.storybook/preview.ts
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/favicon.ico
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/index.html
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/main.ts
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/polyfills.ts
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/styles.css
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/app.component.css
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/app.component.html
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/app.component.ts
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/app.module.ts
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/environments/environment.prod.ts
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/environments/environment.ts
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/button.component.ts
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/button.css
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/Button.stories.ts
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/header.component.ts
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/header.css
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/Header.stories.ts
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/Introduction.mdx
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/page.component.ts
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/page.css
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/Page.stories.ts
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/User.ts
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/models/task.model.ts
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task.module.ts
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Light-webfont.eot
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Light-webfont.svg
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Light-webfont.ttf
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Light-webfont.woff
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Regular-webfont.eot
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Regular-webfont.svg
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Regular-webfont.ttf
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/font/OpenSans-Regular-webfont.woff
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/icon/percolate.eot
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/icon/percolate.svg
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/icon/percolate.ttf
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/assets/icon/percolate.woff
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/code-brackets.svg
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/colors.svg
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/comments.svg
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/direction.svg
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/flow.svg
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/plugin.svg
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/repo.svg
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/assets/stackalt.svg
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-task-list/pure-task-list.component.html
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-task-list/pure-task-list.component.scss
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-task-list/pure-task-list.component.ts
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-task-list/pure-task-list.stories.ts
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/inbox-screen/inbox-screen.component.html
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/inbox-screen/inbox-screen.component.scss
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/inbox-screen/inbox-screen.component.ts
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/task.component.css
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/task.component.html
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/task.component.ts
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/task.stories.ts
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-inbox-screen/pure-inbox-screen.component.html
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-inbox-screen/pure-inbox-screen.component.scss
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-inbox-screen/pure-inbox-screen.component.ts
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-inbox-screen/pure-inbox-screen.stories.ts
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task-list/task-list.component.html
+[09:56:50] Excluding      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task-list/task-list.component.scss
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task-list/task-list.component.ts
+[09:56:50] Including      : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/states/task.stat.ts
+[09:56:50] Searching package.json file
+[09:56:50] package.json file found
+[09:56:50] Processing package.json dependencies
+[09:56:50] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[09:56:50] README.md file found
+[09:56:50] Error during C:\Users\MaytavB\WebstormProjects\intro-storybook-angular-template-master\CHANGELOG read
+[09:56:50] Continuing without CHANGELOG.md file
+[09:56:50] Error during C:\Users\MaytavB\WebstormProjects\intro-storybook-angular-template-master\CONTRIBUTING read
+[09:56:50] Continuing without CONTRIBUTING.md file
+[09:56:50] LICENSE.md file found
+[09:56:50] Error during C:\Users\MaytavB\WebstormProjects\intro-storybook-angular-template-master\TODO read
+[09:56:50] Continuing without TODO.md file
+[09:56:50] Get dependencies data
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/.storybook/preview.ts
+[09:56:51] found          : preview
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/main.ts
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/polyfills.ts
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/app.component.ts
+[09:56:51] found          : AppComponent
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/app.module.ts
+[09:56:51] found          : AppModule
+[09:56:51]                : - imports:
+[09:56:51]                : 	- BrowserModule
+[09:56:51]                : 	- TaskModule
+[09:56:51]                : 	- NgxsModule
+[09:56:51]                : 	- NgxsReduxDevtoolsPluginModule
+[09:56:51]                : 	- NgxsLoggerPluginModule
+[09:56:51]                : 	- InboxScreenComponent
+[09:56:51]                : 	- PureInboxScreenComponent
+[09:56:51]                : - declarations:
+[09:56:51]                : 	- AppComponent
+[09:56:51]                : - bootstrap:
+[09:56:51]                : 	- AppComponent
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/environments/environment.prod.ts
+[09:56:51] found          : environment
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/environments/environment.ts
+[09:56:51] found          : environment
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/button.component.ts
+[09:56:51] found          : ButtonComponent
+[09:56:51]                : - imports:
+[09:56:51]                : 	- CommonModule
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/Button.stories.ts
+[09:56:51] found          : meta
+[09:56:51] found          : Story
+[09:56:51] found          : Primary
+[09:56:51] found          : Secondary
+[09:56:51] found          : Large
+[09:56:51] found          : Small
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/header.component.ts
+[09:56:51] found          : HeaderComponent
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/Header.stories.ts
+[09:56:51] found          : meta
+[09:56:51] found          : Story
+[09:56:51] found          : LoggedIn
+[09:56:51] found          : LoggedOut
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/page.component.ts
+[09:56:51] found          : PageComponent
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/Page.stories.ts
+[09:56:51] found          : meta
+[09:56:51] found          : Story
+[09:56:51] found          : LoggedOut
+[09:56:51] found          : LoggedIn
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/stories/User.ts
+[09:56:51] found          : User
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/models/task.model.ts
+[09:56:51] found          : Task
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task.module.ts
+[09:56:51] found          : TaskModule
+[09:56:51]                : - imports:
+[09:56:51]                : 	- TaskComponent
+[09:56:51]                : 	- TaskListComponent
+[09:56:51]                : 	- PureTaskListComponent
+[09:56:51]                : 	- NgxsModule
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-task-list/pure-task-list.component.ts
+[09:56:51] found          : PureTaskListComponent
+[09:56:51]                : - imports:
+[09:56:51]                : 	- NgIf
+[09:56:51]                : 	- TaskComponent
+[09:56:51]                : 	- NgForOf
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-task-list/pure-task-list.stories.ts
+[09:56:51] found          : meta
+[09:56:51] found          : Story
+[09:56:51] found          : Default
+[09:56:51] found          : WithPinnedTasks
+[09:56:51] found          : Loading
+[09:56:51] found          : Empty
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/inbox-screen/inbox-screen.component.ts
+[09:56:51] found          : InboxScreenComponent
+[09:56:51]                : - imports:
+[09:56:51]                : 	- PureInboxScreenComponent
+[09:56:51]                : 	- AsyncPipe
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/task.component.ts
+[09:56:51] found          : TaskComponent
+[09:56:51]                : - imports:
+[09:56:51]                : 	- NgIf
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/task.stories.ts
+[09:56:51] found          : actionsData
+[09:56:51] found          : meta
+[09:56:51] found          : Story
+[09:56:51] found          : Default
+[09:56:51] found          : Pinned
+[09:56:51] found          : Archived
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-inbox-screen/pure-inbox-screen.component.ts
+[09:56:51] found          : PureInboxScreenComponent
+[09:56:51]                : - imports:
+[09:56:51]                : 	- NgIf
+[09:56:51]                : 	- TaskListComponent
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/pure-inbox-screen/pure-inbox-screen.stories.ts
+[09:56:51] found          : meta
+[09:56:51] found          : Story
+[09:56:51] found          : Default
+[09:56:51] found          : Error
+[09:56:51] found          : WithInteractions
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task-list/task-list.component.ts
+[09:56:51] found          : TaskListComponent
+[09:56:51]                : - imports:
+[09:56:51]                : 	- PureTaskListComponent
+[09:56:51]                : 	- AsyncPipe
+[09:56:51] parsing        : C:/Users/MaytavB/WebstormProjects/intro-storybook-angular-template-master/src/app/components/task/states/task.stat.ts
+[09:56:51] found          : actions
+[09:56:51] found          : ArchiveTask
+[09:56:51] found          : PinTask
+[09:56:51] found          : AppError
+[09:56:51] found          : defaultTasks
+[09:56:51] found          : TaskStateModel
+[09:56:51] found          : TasksState
+[09:56:51] -------------------
+[09:56:51] Project statistics 
+[09:56:51] - files      : 26
+[09:56:51] - module     : 2
+[09:56:51] - component  : 9
+[09:56:51] - injectable : 1
+[09:56:51] - class      : 3
+[09:56:51] - interface  : 3
+[09:56:51] -------------------
+[09:56:51] Prepare components
+[09:56:51]  AppComponent has styleUrls, include them
+[09:56:51]  ButtonComponent has styleUrls, include them
+[09:56:51]  HeaderComponent has styleUrls, include them
+[09:56:51]  InboxScreenComponent has a templateUrl, include it
+[09:56:51]  PageComponent has styleUrls, include them
+[09:56:51]  PureInboxScreenComponent has a templateUrl, include it
+[09:56:51]  PureTaskListComponent has a templateUrl, include it
+[09:56:51]  TaskComponent has a templateUrl, include it
+[09:56:51]  TaskListComponent has a templateUrl, include it
+[09:56:51] Prepare modules
+[09:56:51] Prepare injectables
+[09:56:51] Prepare classes
+[09:56:51] Prepare interfaces
+[09:56:51] Prepare miscellaneous
+[09:56:51] Process documentation coverage report
+[09:56:51] Generating documentation in export format json
+[09:56:51] Documentation generated in ./ in 0.966 seconds
+info => Cleaning outputDir: C:\Users\MaytavB\AppData\Local\Temp\chromatic--18448-VbGNvzxfZthu
 
 info => Loading presets
 info => Building manager..
-info => Manager built (328 ms)
+info => Manager built (376 ms)
 info => Building preview..
-info => Copying static files: C:\Users\MaytavB\WebstormProjects\intro-storybook-angular-template-master\node_modules\@storybook\manager\static at C:\Users\MaytavB\AppData\Local\Temp\chromatic--7060-ucWXn5EMjvpP\sb-common-assets
+info => Copying static files: C:\Users\MaytavB\WebstormProjects\intro-storybook-angular-template-master\node_modules\@storybook\manager\static at C:\Users\MaytavB\AppData\Local\Temp\chromatic--18448-VbGNvzxfZthu\sb-common-assets
 info Using Babel compiler
 info Addon-docs: using MDX2
 info => Using implicit CSS loaders
@@ -371,23 +371,25 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js
 <s> [webpack.Progress] 10% building 0/4 entries 3/5 dependencies 0/3 modules
 <s> [webpack.Progress] 22% building 1/4 entries 5/22 dependencies 1/5 modules
-<s> [webpack.Progress] 23% building import loader ./node_modules/@ngtools/webpack/src/ivy/index.js
-<s> [webpack.Progress] 23% building 1/4 entries 23/36 dependencies 4/23 modules
-<s> [webpack.Progress] 23% building 1/4 entries 24/39 dependencies 4/23 modules
-<s> [webpack.Progress] 37% building 2/4 entries 25/43 dependencies 5/25 modules
-<s> [webpack.Progress] 51% building 3/4 entries 61/81 dependencies 15/40 modules
+<s> [webpack.Progress] 23% building 1/4 entries 10/24 dependencies 5/10 modules
+<s> [webpack.Progress] 32% building 2/4 entries 10/24 dependencies 5/10 modules
+<s> [webpack.Progress] 37% building import loader ./node_modules/@ngtools/webpack/src/ivy/index.js
+<s> [webpack.Progress] 37% building 2/4 entries 23/39 dependencies 5/23 modules
+<s> [webpack.Progress] 46% building 3/4 entries 54/81 dependencies 15/36 modules
 <s> [webpack.Progress] 51% building import loader ./node_modules/@storybook/builder-webpack5/dist/loaders/export-order-loader.js
 <s> [webpack.Progress] 51% building import loader ./node_modules/unplugin/dist/webpack/loaders/transform.js
 <s> [webpack.Progress] 51% building 3/4 entries 61/81 dependencies 16/40 modules
+<s> [webpack.Progress] 51% building 3/4 entries 155/176 dependencies 36/79 modules
 <s> [webpack.Progress] 51% building import loader ./node_modules/resolve-url-loader/index.js
 <s> [webpack.Progress] 51% building import loader ./node_modules/sass-loader/dist/cjs.js
-<s> [webpack.Progress] 51% building 3/4 entries 165/197 dependencies 38/83 modules
-<s> [webpack.Progress] 51% building 3/4 entries 200/219 dependencies 42/94 modules
-<s> [webpack.Progress] 29% building 3/4 entries 300/849 dependencies 57/152 modules
-<s> [webpack.Progress] 51% building 3/4 entries 1100/1162 dependencies 92/510 modules
-<s> [webpack.Progress] 51% building 3/4 entries 1454/1600 dependencies 110/553 modules
-<s> [webpack.Progress] 51% building 3/4 entries 2073/2100 dependencies 276/623 modules
-<s> [webpack.Progress] 51% building 3/4 entries 2495/2500 dependencies 598/748 modules
+<s> [webpack.Progress] 51% building 3/4 entries 167/196 dependencies 38/84 modules
+<s> [webpack.Progress] 51% building 3/4 entries 202/219 dependencies 44/95 modules
+<s> [webpack.Progress] 51% building 3/4 entries 234/247 dependencies 48/104 modules
+<s> [webpack.Progress] 51% building 3/4 entries 855/900 dependencies 68/477 modules
+<s> [webpack.Progress] 51% building 3/4 entries 1382/1400 dependencies 107/535 modules
+<s> [webpack.Progress] 51% building 3/4 entries 1743/1800 dependencies 133/592 modules
+<s> [webpack.Progress] 51% building 3/4 entries 2200/2233 dependencies 425/632 modules
+<s> [webpack.Progress] 51% building 3/4 entries 2500/2552 dependencies 640/735 modules
 <s> [webpack.Progress] 65% building 4/4 entries 2921/2921 dependencies 866/866 modules
 <s> [webpack.Progress] 65% building
 <s> [webpack.Progress] 69% building finish
@@ -636,5 +638,5 @@ WARN
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-info => Preview built (30 s)
-info => Output directory: C:\Users\MaytavB\AppData\Local\Temp\chromatic--7060-ucWXn5EMjvpP
+info => Preview built (36 s)
+info => Output directory: C:\Users\MaytavB\AppData\Local\Temp\chromatic--18448-VbGNvzxfZthu
