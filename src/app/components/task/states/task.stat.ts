@@ -33,6 +33,7 @@ const defaultTasks = [
   {id: '3', title: 'Something else', state: 'TASK_INBOX'},
   {id: '4', title: 'Something again', state: 'TASK_INBOX'},
   {id: '5', title: 'Something again gggg', state: 'TASK_INBOX'},
+  {id: '6', title: 'Something again 6666', state: 'TASK_INBOX'},
 ];
 
 export interface TaskStateModel {
