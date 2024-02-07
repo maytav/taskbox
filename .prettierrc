@@ -1,0 +1,33 @@
+{
+  "printWidth": 80,
+  "tabWidth": 2,
+  "tabs": false,
+  "semi": true,
+  "quoteProps": "preserve",
+  "bracketSpacing": false,
+  "trailingComma": "all",
+  "singleQuote": true,
+  "bracketSameLine": true,
+  "overrides": [
+    {
+      "files": [
+        "**/*.css",
+        "**/*.scss",
+        "**/*.html"
+      ],
+      "options": {
+        "singleQuote": false
+      }
+    },
+    {
+      "files": [
+        "**/*.html"
+      ],
+      "options": {
+        "printWidth": 150,
+        "bracketSpacing": true,
+        "htmlWhitespaceSensitivity": "ignore"
+      }
+    }
+  ]
+}
