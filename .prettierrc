@@ -24,7 +24,6 @@
         "**/*.html"
       ],
       "options": {
-        "printWidth": 150,
         "bracketSpacing": true,
         "htmlWhitespaceSensitivity": "ignore"
       }
